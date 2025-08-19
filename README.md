@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Tusharadapa
-- 👀 I’m interested in SQL, Python, JavaScript, HTML, and CSS.
-- 🌱 I’m currently learning to become a software engineer.
-- 💞️ I want to collaborate on projects to build my skills!
 - 📫 How to reach me: tusharreddya@gmail.com
 
 <!---
